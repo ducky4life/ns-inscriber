@@ -1,4 +1,4 @@
-# ns-cardbidder
+# ns-inscriber
 
 mass inscribe nations
 
